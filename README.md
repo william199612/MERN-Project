@@ -1,4 +1,4 @@
-# MERN Project Client Side
+# MERN Project
 
 This MERN project allows users to choose to login with "student" or "instructor". "student" is allowed to view and search courses and enroll. "instructor" is allowed to post new courses on the website.
 
