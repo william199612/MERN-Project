@@ -18,10 +18,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 git clone https://github.com/william199612/Udemy_Project9_MERN.git
 ```
 
-### Frontend Installation
+### Installation
 
 ```bash
 cd client
+npm install
+
+cd backend
 npm install
 ```
 
